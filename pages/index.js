@@ -4,8 +4,10 @@ import Counter from '../components/Counter';
 export default function Home() {
   return (
     <>
-      <h2>Home page </h2>
-      <Counter />
+      <div className="container">
+        <h2>Home page </h2>
+        <Counter />
+      </div>
     </>
   );
 }
