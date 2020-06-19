@@ -7,7 +7,7 @@ const Meta = () => (
     <meta charSet="utf-8" />
     <link rel="shortcut icon" href="/static/favicon.png" />
     <link
-      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      href="https://fonts.googleapis.com/css2?family=MuseoModerno:wght@500&family=Open+Sans&family=Roboto&display=swap"
       rel="stylesheet"
     />
     <title>Cotton Store!</title>

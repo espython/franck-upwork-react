@@ -20,7 +20,7 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-size: 1.6rem;
     line-height: 2;
-    font-family: Roboto sans-serif !important;
+    font-family: Roboto , sans-serif !important;
     font-weight: 600;
     font-display: fallback;
     background-color: ${(props) => props.theme.mainLight};
